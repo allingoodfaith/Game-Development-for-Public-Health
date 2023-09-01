@@ -1,0 +1,3 @@
+I'll confess to creating a very simple app with Bubble, mainly for time reasons but even with my very simple app it was very easy. I understand why folks would use services like the ones Bubble provides. It's would be very easy to build our app in such a program and most everyone could help build it as it doesnt take much coding knowledge at all. However that can all be seen as a con. It's so simple, too simple even. There is very little customization we could use and nothing seems like it would make a fun game. 
+
+Navaigation was made very easy with flow charts which is very important as we want the app to be easy to use for everyone. 
